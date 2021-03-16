@@ -1,4 +1,4 @@
-## Salve salve, meu nome é Bryan Alexandre e este é meu github (voltando a subir coisas por aqui) <img align="center" alt="dkme01-gojo" height="30" width="40" src="https://media.giphy.com/media/8fBuzTdpZyB4NDIXoZ/giphy.gif">
+## Salve salve, meu nome é Bryan Alexandre e este é meu github (voltando a subir coisas por aqui) <img align="center" alt="dkme01-inumaki" height="30" width="40" src="https://media.giphy.com/media/ZtzwBkfSzNc9sNDNH5/giphy.gif">
 
 <a href="https://github.com/dkme01">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=dkme01&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
